@@ -1,0 +1,68 @@
+{
+  "fighters": [
+    { "name": "SLOTH",
+      "health": 30,
+	  "strength": 25,
+      "defense": 30,
+      "speed": 10,
+      "stamina": 100,
+      "evasiveness": 100,
+      "intelligence": 40
+    },
+    { "name": "BRUCE LEE",
+      "health": 100,
+      "strength": 100,
+      "defense": 100,
+      "speed": 100,
+      "stamina": 80,
+      "evasiveness": 100,
+      "intelligence": 68
+    },
+    { "name": "DARTH VADER",
+      "health": 125,
+      "strength": 115,
+      "defense": 120,
+      "speed": 80,
+      "stamina": 75,
+      "evasiveness": 50,
+      "intelligence": 65
+    },
+    { "name": "OCTOPUS",
+      "health": 10,
+      "strength": 78,
+      "defense": 90,
+      "speed": 50,
+      "stamina": 50,
+      "evasiveness": 80,
+      "intelligence": 50
+    },
+    { "name": "NINJA",
+      "health": 105,
+      "strength": 95,
+      "defense": 105,
+      "speed": 105,
+      "stamina": 85,
+      "evasiveness": 110,
+      "intelligence": 60
+    },
+    { "name": "WIZARD",
+      "health": 60,
+      "strength": 70,
+      "defense": 45,
+      "speed": 30,
+      "stamina": 40,
+      "evasiveness": 40,
+      "intelligence": 80
+    }
+  ],
+  "abilities":[
+    {"ability" : "CAN ANIMATE DIRT"},
+    {"ability" : "LOCKED IN A SHARK CAGE"},
+    {"ability" : "THROWS KNIVES"},
+    {"ability" : "9 FEET TALL"},
+    {"ability" : "SHOOTS LAUGHING GAS"},
+    {"ability" : "LITERALLY WEARING BEER GOGGLES"},
+    {"ability" : "ARMED WITH A SAMURAI SWORD"},
+    {"ability" : "THROWS FIREBALLS"}
+  ]
+}
